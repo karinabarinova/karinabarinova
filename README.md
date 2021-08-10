@@ -8,3 +8,4 @@
 </p>
 
 <p align="center" height='50px'>👩‍💻🏳️‍🌈🇺🇦</p>
+[![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinabarinova)](https://github.com/anuraghazra/github-readme-stats)
