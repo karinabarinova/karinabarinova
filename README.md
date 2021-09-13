@@ -1,13 +1,7 @@
 ### Hi there, I'm [Karina!](https://www.linkedin.com/in/karina-barinova/) 👋
-
-<a href="https://www.linkedin.com/in/karina-barinova">
-  <img align="left" alt="Karina Barinova | Linkedin" width="20px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111723.svg" />
-</a>
-
-<br />
 <br />
 
-Hi, I am Fullstack Software Developer from Kyiv, Ukraine.
+I am Fullstack Software Developer from Kyiv, Ukraine.
 
 - 🌱 I’m currently learning Typescript and Solidity
 
