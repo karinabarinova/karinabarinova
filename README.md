@@ -1,9 +1,9 @@
 ### Hi there, I'm [Karina!](https://www.linkedin.com/in/karina-barinova/) 👋
 <br />
 
-I am Fullstack Software Developer from Kyiv, Ukraine.
+I am Fullstack Software Developer from Ukraine. Currently, I'm in Portugal and open to relocation to Canada.
 
-- 🌱 I’m currently learning Typescript and Solidity
+- 🌱 I’m currently learning Solidity
 
 **Languages and Tools:**  
 
